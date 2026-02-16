@@ -92,3 +92,7 @@ This approach is for developing, for your stagging / production, please generate
 You should have A+ on [SSL Server Test](https://www.ssllabs.com/ssltest/).
 
 ![](https://raw.githubusercontent.com/dockette/nginx/master/.docs/ssllabs.png "SSL Server Test")
+
+## Maintenance
+
+See [how to contribute](https://github.com/dockette/.github/blob/master/CONTRIBUTING.md) to this package. Consider to [support](https://github.com/sponsors/f3l1x) **f3l1x**. Thank you for using this package.
